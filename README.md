@@ -10,5 +10,5 @@ The code is provided for research purposes only and without any warranty. Any co
  
 When using the code in your research work, you should cite the following paper:
  
-"Li, Shengxu, Yu, Zeyang, Xiang, Mmin, & Mandic, Danilo (2019). A General Solver to the Elliptical Mixture Model through an Approximate Wasserstein Manifold. arXiv preprint arXiv:1906.03700."
+"Li, Shengxi, Yu, Zeyang, Xiang, Mmin, & Mandic, Danilo (2019). A General Solver to the Elliptical Mixture Model through an Approximate Wasserstein Manifold. arXiv preprint arXiv:1906.03700."
 
